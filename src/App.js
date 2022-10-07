@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState, useRef } from "react";
+import { useState } from "react";
 
 function App() {
   const [result, setResult] = useState(0);
